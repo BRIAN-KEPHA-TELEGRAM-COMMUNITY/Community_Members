@@ -1,4 +1,4 @@
-# Community_Members
+# Our Community Members
 This repo is created to document members of this wonderful community🚀
 
 
