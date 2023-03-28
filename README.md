@@ -52,6 +52,7 @@ flowchart LR
 - ### **H**
 - ### **I**
 - ### **J**
+    [Joseph Kibe](https://github.com/joseph254ke)
 - ### **K**
 - ### **L**
 - ### **M**
