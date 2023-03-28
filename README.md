@@ -43,6 +43,7 @@ flowchart LR
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
+[Auralia Malik]((https://github.com/AURALIA-MALIK)
 - ### **B**
 [Brian Kepha](https://github.com/AngelofVerdant)
 - ### **C**
