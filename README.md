@@ -56,6 +56,7 @@ flowchart LR
 - ### **G**
 - ### **H**
 - ### **I**
+[Iha Thoya](https://github.com/deadboneiha)
 - ### **J**
 - ### **K**
 - ### **L**
