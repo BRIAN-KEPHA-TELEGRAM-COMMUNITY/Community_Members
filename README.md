@@ -58,7 +58,7 @@ flowchart LR
 - ### **I**
 - ### **J**
 - ### **K**
-- ### **L**
+[Lynda Nafula](https://github.com/lyndanafula)
 - ### **M**
 [Moses Borore](https://github.com/mosesborore)
 - ### **N**
