@@ -44,6 +44,7 @@ flowchart LR
 
 - ### **A**
 - ### **B**
+[Brian Kepha](https://github.com/AngelofVerdant)
 - ### **C**
 - ### **D**
 - ### **E**
