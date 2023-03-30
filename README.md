@@ -48,6 +48,7 @@ flowchart LR
 [Brian Kepha](https://github.com/AngelofVerdant)
 
 [Brian Ngugi](https://github.com/CARTOON01)
+
 [Bwahyi Chris](https://github.com/STARIXC)
 - ### **C**
 [Caleb Kech](https://github.com/calebkech)
