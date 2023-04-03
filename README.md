@@ -64,6 +64,8 @@ flowchart LR
 - ### **L**
 [Lynda Nafula](https://github.com/lyndanafula)
 - ### **M**
+[Manasseh Kinyua](https://github.com/GeminiKinyua)
+
 [Moses Borore](https://github.com/mosesborore)
 - ### **N**
 - ### **O**
