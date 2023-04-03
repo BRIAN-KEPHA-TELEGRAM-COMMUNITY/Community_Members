@@ -47,20 +47,30 @@ flowchart LR
 - ### **B**
 [Brian Ngugi](https://github.com/CARTOON01)
 [Brian Kepha](https://github.com/AngelofVerdant)
+
+[Brian Ngugi](https://github.com/CARTOON01)
+
+[Bwahyi Chris](https://github.com/STARIXC)
 - ### **C**
+[Caleb Kech](https://github.com/calebkech)
 - ### **D**
 - ### **E**
 - ### **F**
 - ### **G**
 - ### **H**
 - ### **I**
+[Iha Thoya](https://github.com/deadboneiha)
 - ### **J**
 - ### **K**
 - ### **L**
+[Lynda Nafula](https://github.com/lyndanafula)
 - ### **M**
+[Manasseh Kinyua](https://github.com/GeminiKinyua)
+
 [Moses Borore](https://github.com/mosesborore)
 - ### **N**
 - ### **O**
+[Odek Frank](https://github.com/odekfrank)
 - ### **P**
 - ### **Q**
 - ### **R**
