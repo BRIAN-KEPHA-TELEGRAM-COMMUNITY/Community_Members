@@ -54,6 +54,7 @@ flowchart LR
 [Caleb Kech](https://github.com/calebkech)
 - ### **D**
 - ### **E**
+[Enock Kipsang](https://github.com/nokekip)
 - ### **F**
 - ### **G**
 - ### **H**
