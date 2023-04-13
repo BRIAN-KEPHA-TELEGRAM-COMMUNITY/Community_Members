@@ -59,6 +59,7 @@ flowchart LR
 [Enock Kipsang](https://github.com/nokekip)
 - ### **F**
 - ### **G**
+[Gekko Wrld](https://github.com/gekkowrld)
 - ### **H**
 - ### **I**
 [Iha Thoya](https://github.com/deadboneiha)
