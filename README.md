@@ -54,6 +54,8 @@ flowchart LR
 [Bwahyi Chris](https://github.com/STARIXC)
 - ### **C**
 [Caleb Kech](https://github.com/calebkech)
+
+[Cleophas Ouma](https://github.com/chrisakhula)
 - ### **D**
 - ### **E**
 [Enock Kipsang](https://github.com/nokekip)
