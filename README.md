@@ -80,6 +80,7 @@ flowchart LR
 - ### **Q**
 - ### **R**
 - ### **S**
+[Samuel Mwalami](https://github.com/samuelmwalami)
 - ### **T**
 - ### **U**
 - ### **V**
