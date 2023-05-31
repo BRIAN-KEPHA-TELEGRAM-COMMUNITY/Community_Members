@@ -74,6 +74,7 @@ flowchart LR
 
 [Moses Borore](https://github.com/mosesborore)
 - ### **N**
+[Nura Mohamed](https://github.com/Nura-mohamed)
 - ### **O**
 [Odek Frank](https://github.com/odekfrank)
 - ### **P**
