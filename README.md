@@ -76,8 +76,9 @@ flowchart LR
 - ### **N**
 [Nura Mohamed](https://github.com/Nura-mohamed)
 - ### **O**
-[Odek Frank](https://github.com/odekfrank)
 [Ochanda Charles](https://github.com/Ochanda-Charles)
+
+[Odek Frank](https://github.com/odekfrank)
 - ### **P**
 - ### **Q**
 - ### **R**
